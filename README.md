@@ -16,7 +16,7 @@ or
 $ pip install --upgrade Django
 ```
 #### Setting up the project locally:
-Open `cmd.exe` or `git cmd`
+Open `cmd.exe` or `git cmd`\n
 Change your working directory to:`\Django-PriceTrackingProject\myproject`
 Run the development server to check if everything has been installed correctly:
 ```
