@@ -5,7 +5,7 @@ For official Django documentation [click](https://docs.djangoproject.com/en/4.1/
 
 #### Fork this repository:
 
-#### Open 'git bash' and Clone this repository using 'git clone':
+#### Open `git bash` and Clone this repository using `git clone`:
 
 #### Installing Django:
 '''
