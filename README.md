@@ -3,7 +3,7 @@ A Python Web-App for tracking prices of your favourite products.
 For official Django documentation [click](https://docs.djangoproject.com/en/4.1/).
 ##Getting started:
 
-####Fork this repository:
+####Fork this repository:####
 
 ####Open 'git bash' and Clone this repository using 'git clone':
 
