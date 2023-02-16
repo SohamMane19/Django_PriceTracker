@@ -16,11 +16,11 @@ or
 $ pip install --upgrade Django
 ```
 #### Setting up the project locally:
-Open `cmd.exe` or `git cmd`<br/>
-Change your working directory to:`\Django-PriceTrackingProject\myproject`<br/>
-Run the development server to check if everything has been installed correctly:<br/>
+1)Open `cmd.exe` or `git cmd`<br/>
+2)Change your working directory to:`\Django-PriceTrackingProject\myproject`<br/>
+3)Run the development server to check if everything has been installed correctly:<br/>
 ```
 $ python manage.py runserver
 ```
 <br/>
-You can open your favorite browser and check at http://127.0.0.1:8000/. You should see a page that tells you the installation was successfull.
+4)You can open your favorite browser and check at http://127.0.0.1:8000/. You should see a page that tells you the installation was successfull.
