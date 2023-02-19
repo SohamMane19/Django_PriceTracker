@@ -1,3 +1,4 @@
+# This project is under development
 # Django_PriceTracker
 A Python Web-App for tracking prices of your favourite products.
 For official Django documentation [click](https://docs.djangoproject.com/en/4.1/).
